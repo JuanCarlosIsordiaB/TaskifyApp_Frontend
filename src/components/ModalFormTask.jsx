@@ -125,7 +125,7 @@ const ModalFormTask = () => {
 
               <div className="sm:flex sm:items-start">
                 <div className="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left w-full">
-                  {msg && <Alert alert={alert} />}
+                  
                   <Dialog.Title
                     as="h3"
                     className="text-xl leading-6 font-bold text-gray-900"
